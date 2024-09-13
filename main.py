@@ -7,7 +7,7 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, this is a test to make sure I understand Git')  # Press ⌘F8 to toggle the breakpoint.
-
+    print(f'Testing Commit Changes')
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
